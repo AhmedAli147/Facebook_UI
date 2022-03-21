@@ -33,7 +33,7 @@ Widget horizontalSlider({storyImage, userImage, userName}) {
                 ),
               ),
             ),
-            Text(userName, style: TextStyle(color: Colors.white),)
+            Text(userName, style: const TextStyle(color: Colors.white),)
           ],
         ),
       ),
