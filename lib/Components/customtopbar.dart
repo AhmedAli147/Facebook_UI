@@ -22,12 +22,12 @@ Widget customTopbar ( ){
                     ),
                   ),
                 ),
-                SizedBox(
+                const SizedBox(
                   width: 20,
                 ),
                 IconButton(
                     onPressed: () {},
-                    icon: Icon(
+                    icon: const Icon(
                       Icons.camera_alt,
                       color: Colors.black,
                       size: 30,
